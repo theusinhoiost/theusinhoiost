@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theusinhoiost
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning PHP and JavaScript
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning JavaScript and React
 
 <!---
 theusinhoiost/theusinhoiost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
