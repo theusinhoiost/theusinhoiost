@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theusinhoiost
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning JavaScript and React
-- Know me? https://theusinhoiost.github.io/Portfolio/
+- Know me? New page soon 
 
 <!---
 theusinhoiost/theusinhoiost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
