@@ -16,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Estatísticas do GitHub
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusinhoiost&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusinhoiost&layout=compact&theme=dracula&hide_border=true)
+
+## 📂 Projetos em Destaque
+- [🔗 FaithCircle](https://github.com/theusinhoiost/faithcircle) — Rede social focada em conectar pessoas pela fé, com sistema de match e chat.
