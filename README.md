@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Featured Project
-### [WanderSync](https://github.com/theusinhoiost/wandersync) ★
+### ⭐ [WanderSync](https://github.com/theusinhoiost/wandersync)
 **Collaborative travel planner with privacy by design**  
 - End-to-end encryption (AES-256-GCM) for locations, notes and photos  
 - Secure authentication (bcrypt + future 2FA)  
@@ -21,6 +21,21 @@
 - Final college project (TCC) + practical application of Google Cybersecurity Certificate concepts  
 
 > “Even with full database access, user trip data remains unreadable without their password.”
+
+---
+
+## Infrastructure & Security Notes
+### 🔐 [Cyber-Devops](https://github.com/theusinhoiost/Cyber-Devops)
+A curated collection of notes and hands-on practices covering:
+- Linux & Git fundamentals
+- Docker and CI/CD basics
+- DevOps workflows
+- Cybersecurity foundations and Linux hardening
+
+This repository reflects my practical learning process in DevSecOps
+and secure system design.
+
+---
 
 ## Currently Learning
 - Google Cybersecurity Professional Certificate (Coursera / CIEE)  
@@ -35,4 +50,3 @@
 - Portfolio / Contact → theusinhoiost.github.io  
 - Open to freelance & remote opportunities (available from Dec/2025)
 
-<!--- keep the line below if you want --->
