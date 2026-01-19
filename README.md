@@ -11,9 +11,13 @@
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat&logo=drizzle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Featured Project
-### ⭐ [WanderSync](https://github.com/theusinhoiost/wandersync)
-**Collaborative travel planner with privacy by design**  
+### ⭐ WanderSync
+
+**Collaborative travel planner with privacy by design**
+
+- Frontend → https://github.com/theusinhoiost/wandersync  
+- Backend → https://github.com/theusinhoiost/wandersync-backend  
+
 - End-to-end encryption (AES-256-GCM) for locations, notes and photos  
 - Secure authentication (bcrypt + future 2FA)  
 - Real-time collaboration, dark/light mode, interactive maps  
